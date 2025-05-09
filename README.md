@@ -46,7 +46,7 @@ This project demonstrates the implementation of a minimal ERC20 token using the 
 
 ## 📁 Project Structure
 
-```
+````
 
 .
 ├── src
