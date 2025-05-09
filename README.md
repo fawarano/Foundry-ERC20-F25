@@ -46,9 +46,7 @@ This project demonstrates the implementation of a minimal ERC20 token using the 
 
 ## 📁 Project Structure
 
-````
-
-.
+````.
 ├── src
 │   └── OurToken.sol              # The ERC20 token contract
 ├── test
@@ -57,7 +55,6 @@ This project demonstrates the implementation of a minimal ERC20 token using the 
 │   └── DeployOurToken.s.sol      # Script for deployment
 ├── foundry.toml                  # Foundry configuration
 └── README.md                     # Project documentation
-
 ````
 
 ---
